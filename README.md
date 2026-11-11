@@ -1,11 +1,3 @@
-Draft of the README of `reckless-technology/sentinel-releases`, to be committed there by Jonny in the same hour as the
-first promotion, v1.0.0 (`docs/packaging.md`, the first release's checklist). Its download names were checked against
-`release.yml` and `promote.yml` on 2026-11-10. Everything above the line is this repository's
-note; the README starts under it. It names nothing the game was measured against, and it must stay so. The download page
-it links is the website's, merged 2026-11-09; its Sentinel section appears with the first promotion's deploy.
-
----
-
 # Sentinel
 
 The downloads of Sentinel, an original arcade game for macOS, Windows and Linux from Reckless Technology: fly a ship
