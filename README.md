@@ -2,8 +2,8 @@
 
 The downloads of Sentinel, an original arcade game for macOS, Windows and Linux from Reckless Technology: fly a ship
 across a wrapping planet, shoot the landers before they carry its people away, and hold back everything that comes
-after them, one or two players, wave on wave. Version 1.0 is the first release: high definition at any window size,
-drawn on the graphics card, with its own music and stereo sound, and every control yours to change. Free for any use.
+after them, one or two players, wave on wave. It is high definition at any window
+size, drawn on the graphics card, with its own music and stereo sound, and every control yours to change. Free for any use.
 
 | | | |
 |---|---|---|
